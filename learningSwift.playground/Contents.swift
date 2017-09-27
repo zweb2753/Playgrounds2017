@@ -20,4 +20,6 @@ isReal = true:
 let myName :String
 myName = "Zane"
 print(myName)
-
+var welcome :String
+welcome = "Hello"
+print(welcome)
