@@ -20,7 +20,7 @@ let string2 = "school is boring"
 
 if string1>string2
 {
-    print("string 1 is first")
+    print("string1 is first")
 }
 else
 {
